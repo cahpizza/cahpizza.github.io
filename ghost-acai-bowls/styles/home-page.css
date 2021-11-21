@@ -29,7 +29,7 @@ header{
 }
 body{
     background-color: #C1DFF0;
-    font-family: 'Playfair Display', serif ;
+    font-family: 'Eb Garamond', serif ;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -57,7 +57,7 @@ footer a{
 }
  .home-title{
     color: #7F9172;
-    font-family: 'Playfair Display', serif;     
+    font-family: 'EB Garamond', serif;     
     margin-top: 10px;
  }
  #hero{
@@ -73,3 +73,9 @@ footer a{
     grid-column: 2/3;
     grid-row: 1/2;
     margin-top: 100px;
+}
+#hero-img{
+        width: 50%;
+        align-content: center;
+
+    }
